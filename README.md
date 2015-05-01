@@ -1,4 +1,5 @@
 # firsttest
-Throwaway repo for doing some initial testing
 
-And this is my very FIRST change to the readme file!
+Throwaway repo for doing some EXPERIMENTAL testing
+
+And this is my very SECOND change to the readme file!
