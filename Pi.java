@@ -10,7 +10,7 @@ class Pi {
 
 	public static double pi() {
 		double sum=0.0;
-		for(double k=0.0; k<10000000.0; k++) {
+		for(double k=0.0; k<1000000.0; k++) {
 			sum += Math.pow(-3.0, -k) / (2.0*k+1.0);
 		}
 		return Math.sqrt(12.0)*sum;
